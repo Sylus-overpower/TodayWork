@@ -1,0 +1,39 @@
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\bin\Debug\Login.exe.config
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\bin\Debug\Login.exe
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\bin\Debug\Login.pdb
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.AfterLoginMainPage.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.ChangeMyPW.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.ComManage.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Company.ChangeComMyInfo.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Company.ManagePost.ApplicationList.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Company.ManagePost.show_resume_this_application.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Company.Show_Resume.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Individual.ChangeInMyInfo.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Individual.CompanyInfo.InfoItem.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.IMemberMainForm.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.IMenu1.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.IMenu2.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Individual.JobRecruitment.PostInfo.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.IMenu3.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.IMenu4.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Individual.Review.View_Review.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Individual.Review.Write_Review.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\LogIn.Form1.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.MainForm.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Menu1.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Menu2.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Menu3.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Menu4.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.Recruit.WriteDetail.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.SignUp.resources
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.exe
+D:\C#\2020C-Study\Todayworkwork\오늘부터 1일\Login\Login\obj\Debug\Login.pdb
+C:\Users\305\Desktop\오늘부터 1일-진짜최종\Login\Login\bin\Debug\Login.exe.config
+C:\Users\305\Desktop\오늘부터 1일-진짜최종\Login\Login\obj\Debug\Login.exe
+C:\Users\305\Desktop\오늘부터 1일-진짜최종\Login\Login\obj\Debug\Login.pdb
+C:\Users\305\Desktop\c# (2)\c#\오늘부터 1일-진짜최종\Login\Login\bin\Debug\Login.exe.config
+C:\Users\305\Desktop\c# (2)\c#\오늘부터 1일-진짜최종\Login\Login\obj\Debug\Login.exe
+C:\Users\305\Desktop\c# (2)\c#\오늘부터 1일-진짜최종\Login\Login\obj\Debug\Login.pdb
